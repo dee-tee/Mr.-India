@@ -6,7 +6,7 @@ This repository contains the code to this very trickery, that is, you can become
 # Technology Stack
  I have written the code in Python using OpenCV and numpy libraries.
 # How does the Code Work
-When you run the code two windows will open up, one containing the taskbars for adjusting the Hue, Saturation and Value to tweak the colour to the garment you are wearing or the colour of the cloak that you will use, the other window contains the livestream, adjust the values based on what you are wearing and watch the magic unfold.
+When you run the code two windows will open up, one containing the trackbars for adjusting the Hue, Saturation and Value to tweak the colour to the garment you are wearing or the colour of the cloak that you will use, the other window contains the livestream, adjust the values based on what you are wearing and watch the magic unfold.
 # References
 1. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html
 2. https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html
